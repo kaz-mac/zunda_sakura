@@ -7,7 +7,7 @@
 さくらインターネットが提供するAIサービス「[さくらのAI Engine](https://www.sakura.ad.jp/aipf/ai-engine/)」を使用して動作します。
 
 ## 詳細
-詳しくは [こちら](https://akibabara.com/blog/true.html) をご覧ください。
+詳しくは [こちら](https://akibabara.com/blog/9200.html) をご覧ください。
 
 ## License
 個別に表記しているものを除き、プログラムは[MIT license](https://opensource.org/licenses/MIT)です。<br>
